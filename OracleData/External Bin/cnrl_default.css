@@ -1,0 +1,203 @@
+/* GENERAL BODY */
+html,body,p,input,select,textarea  
+{
+    font-size: 12px; 
+    font-family:"Helvetica Neue", Helvetica, Arial, "sans-serif";
+    font-family: "Lucida Grande", "Trebuchet MS", Verdana, sans-serif;
+
+}
+
+.error_label
+{
+    color: Red;
+}
+
+.div_noticetext
+{
+    margin-bottom: 5px;
+}
+
+/* HEADER */
+#div_header
+{
+    width: 100%;
+    height: 80px;
+	background-image: url('../Images/logo.gif');
+	background-repeat: no-repeat;
+	background-position: left bottom;
+    font-family: Helvetica, Arial, Verdana, Geneva, sans-serif; font-size: 32px; font-style: normal; font-weight: bold; color: #2760A9; text-align: right; vertical-align: middle;
+    font-family:"Helvetica Neue";
+    color: #80A2D0;
+    background-color: #F9F9F9;
+    line-height: 120px;
+    background-color: #fcfcfc;
+    border-bottom: 2px solid #EDEEEE;
+}
+
+/* MENU */
+#div_menu
+{
+    width: 100%;
+    background:#7795BD url('../Images/bg_nav.gif') repeat-x;
+    height:23px;
+    margin-bottom: 5px;
+}
+
+.top_menu 
+{
+    position:relative;
+    top: 0;
+    left: 0;
+    z-index: 300;
+    width:100%;
+    margin:0;
+    height: 22px;
+    display: table;
+}
+
+.top_menu ul
+{
+    background:#7795BD;
+    height: 22px;
+    padding-left:4px;
+    padding-right:4px;
+    padding-top: 4px;
+    width: 150px;
+    display: table-cell;
+    vertical-align: middle;
+    line-height: 22px;
+}
+
+ 
+.top_menu li
+{
+    color: White;
+    background:#7795BD;
+    border-right: 1px solid #fcfcfc;
+    height: 22px;
+    margin-bottom: 0px;
+    border-bottom: 1px solid #EDEEEE;
+    padding-left:4px;
+    padding-top:0px;
+    padding-right:4px;
+    width: 150px;
+    display: table-cell;
+    vertical-align: middle;
+display: inline-block;
+}
+
+.top_menu  li.AspNet-Menu-Leaf a,
+.top_menu  li.AspNet-Menu-Leaf span
+{
+    background-image: none;
+}
+
+.top_menu  li:hover, 
+.top_menu  li.AspNet-Menu-Hover
+{
+    background-color: #007CC3;
+}
+
+.top_menu  li:hover ul a, 
+.top_menu  li:hover ul span, 
+.top_menu  ul a,
+.top_menu  ul span,
+.top_menu  li:hover li:hover ul a, 
+.top_menu  li:hover li:hover ul span, 
+.top_menu  ul a,
+.top_menu  ul span
+{
+    color: White;
+}
+
+.top_menu  li:hover li:hover, 
+{
+    background: #80A2D0;
+    background-color: #80A2D0;
+    border-right: 1px solid white;
+}
+
+/* DIV TABLE */
+.div_table     
+{         
+    display:  table;         
+    background-color: #DDDDDD;
+    border:1px solid #7795BD;         
+    border-spacing:5px;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    float:none;
+    vertical-align: middle;
+    overflow:hidden;
+}      
+
+.div_column
+{         
+    display:table-column;         
+    float:left;
+    margin-right: 2px;
+} 
+
+.div_row_header
+{        
+    display:table-row;     
+    min-height: 14px;
+    width: 100%;
+    background-color:#EDEEEE;         
+    margin-bottom: 2px;
+    font-weight: bold;
+    text-align: center;
+}     
+
+.div_row_footer
+{        
+    clear:both;
+}     
+
+.div_row_buttons
+{        
+    display:table-row;     
+    width: 100%;
+    margin-bottom: 2px;
+    margin-right: 2px;
+    margin-top:10px;
+    font-weight: bold;
+    text-align: right;
+    float: none;
+    text-decoration: none;
+}     
+
+.div_row     
+{        
+    display:table-row;     
+    margin-bottom: 2px;
+    min-height: 26px;
+ }      
+
+
+.div_cell_label
+{         
+    display:table-cell;         
+    width:140px; 
+    float:left; 
+    text-align:left;
+    padding-left: 2px;
+} 
+
+    
+.errordisplay
+{
+	font-size: 10pt;
+	font-weight: normal;
+	color: red;
+	border:solid 2px red;
+	background-color:#FFF8DC;
+	padding-left:15pt;
+	padding-right:10pt;
+	line-height: 15pt;
+}
+.errordisplay hr
+{
+	color: red;
+}
+

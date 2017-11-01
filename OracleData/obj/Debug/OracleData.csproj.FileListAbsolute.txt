@@ -1,0 +1,39 @@
+U:\Work\sunnymoon-csharpworkshop2-66534b459602\OracleData\bin\Debug\OracleData.dll
+U:\Work\sunnymoon-csharpworkshop2-66534b459602\OracleData\bin\Debug\OracleData.pdb
+U:\Work\sunnymoon-csharpworkshop2-66534b459602\OracleData\bin\Debug\CanadianNatural.ApplicationServices.Security.AppSecure.dll
+U:\Work\sunnymoon-csharpworkshop2-66534b459602\OracleData\bin\Debug\CanadianNatural.ApplicationServices.Security.AppSecure.XmlSerializers.dll
+U:\Work\sunnymoon-csharpworkshop2-66534b459602\OracleData\bin\Debug\CanadianNatural.ApplicationServices.Security.Interface.dll
+U:\Work\sunnymoon-csharpworkshop2-66534b459602\OracleData\bin\Debug\Oracle.DataAccess.dll
+U:\Work\sunnymoon-csharpworkshop2-66534b459602\OracleData\obj\Debug\OracleData.csprojResolveAssemblyReference.cache
+U:\Work\sunnymoon-csharpworkshop2-66534b459602\OracleData\obj\Debug\OracleData.dll
+U:\Work\sunnymoon-csharpworkshop2-66534b459602\OracleData\obj\Debug\OracleData.pdb
+U:\Work\sunnymoon-csharpworkshop2\OracleData\bin\Debug\OracleData.dll.config
+U:\Work\sunnymoon-csharpworkshop2\OracleData\bin\Debug\OracleData.dll
+U:\Work\sunnymoon-csharpworkshop2\OracleData\bin\Debug\OracleData.pdb
+U:\Work\sunnymoon-csharpworkshop2\OracleData\bin\Debug\CanadianNatural.ApplicationServices.Security.AppSecure.dll
+U:\Work\sunnymoon-csharpworkshop2\OracleData\bin\Debug\CanadianNatural.ApplicationServices.Security.AppSecure.XmlSerializers.dll
+U:\Work\sunnymoon-csharpworkshop2\OracleData\bin\Debug\CanadianNatural.ApplicationServices.Security.Interface.dll
+U:\Work\sunnymoon-csharpworkshop2\OracleData\bin\Debug\Oracle.DataAccess.dll
+U:\Work\sunnymoon-csharpworkshop2\OracleData\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.dll
+U:\Work\sunnymoon-csharpworkshop2\OracleData\bin\Debug\CanadianNatural.ApplicationServices.Security.AppSecure.pdb
+U:\Work\sunnymoon-csharpworkshop2\OracleData\bin\Debug\CanadianNatural.ApplicationServices.Security.Interface.pdb
+U:\Work\sunnymoon-csharpworkshop2\OracleData\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.pdb
+U:\Work\sunnymoon-csharpworkshop2\OracleData\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.xml
+U:\Work\sunnymoon-csharpworkshop2\OracleData\obj\Debug\OracleData.dll
+U:\Work\sunnymoon-csharpworkshop2\OracleData\obj\Debug\OracleData.pdb
+U:\Work\sunnymoon-csharpworkshop2\OracleData\obj\Debug\OracleData.csprojResolveAssemblyReference.cache
+U:\Data\Visual Studio 2010\Projects\CSharpAppsecure\OracleData\bin\Debug\OracleData.dll.config
+U:\Data\Visual Studio 2010\Projects\CSharpAppsecure\OracleData\bin\Debug\OracleData.dll
+U:\Data\Visual Studio 2010\Projects\CSharpAppsecure\OracleData\bin\Debug\OracleData.pdb
+U:\Data\Visual Studio 2010\Projects\CSharpAppsecure\OracleData\bin\Debug\CanadianNatural.ApplicationServices.Security.AppSecure.dll
+U:\Data\Visual Studio 2010\Projects\CSharpAppsecure\OracleData\bin\Debug\CanadianNatural.ApplicationServices.Security.AppSecure.XmlSerializers.dll
+U:\Data\Visual Studio 2010\Projects\CSharpAppsecure\OracleData\bin\Debug\CanadianNatural.ApplicationServices.Security.Interface.dll
+U:\Data\Visual Studio 2010\Projects\CSharpAppsecure\OracleData\bin\Debug\Oracle.DataAccess.dll
+U:\Data\Visual Studio 2010\Projects\CSharpAppsecure\OracleData\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.dll
+U:\Data\Visual Studio 2010\Projects\CSharpAppsecure\OracleData\bin\Debug\CanadianNatural.ApplicationServices.Common.dll
+U:\Data\Visual Studio 2010\Projects\CSharpAppsecure\OracleData\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+U:\Data\Visual Studio 2010\Projects\CSharpAppsecure\OracleData\bin\Debug\CanadianNatural.ApplicationServices.Security.AppSecure.pdb
+U:\Data\Visual Studio 2010\Projects\CSharpAppsecure\OracleData\bin\Debug\CanadianNatural.ApplicationServices.Security.Interface.pdb
+U:\Data\Visual Studio 2010\Projects\CSharpAppsecure\OracleData\bin\Debug\CanadianNatural.ApplicationServices.Common.pdb
+U:\Data\Visual Studio 2010\Projects\CSharpAppsecure\OracleData\obj\Debug\OracleData.dll
+U:\Data\Visual Studio 2010\Projects\CSharpAppsecure\OracleData\obj\Debug\OracleData.pdb

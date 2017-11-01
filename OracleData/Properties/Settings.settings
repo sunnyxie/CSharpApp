@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="OracleData.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="appSecureURL" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://appsecure/appsecureservice.asmx</Value>
+    </Setting>
+    <Setting Name="appSecureEnvironment" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">DEV</Value>
+    </Setting>
+    <Setting Name="appSecureAppId" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">RemedyFM</Value>
+    </Setting>
+    <Setting Name="common_stylesheet_runtime" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://common.web.cnrl.com/Current/Styles/cnrl_default.css</Value>
+    </Setting>
+    <Setting Name="common_stylesheet_designtime" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">M:\CNRLAPPS\WEBAPPS\Test\TestFarmA</Value>
+    </Setting>
+    <Setting Name="logFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)">~/Log</Value>
+    </Setting>
+    <Setting Name="infoLogPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">~/Log/RemedyFM</Value>
+    </Setting>
+    <Setting Name="AppSecureConnString" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">PRIMARY</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
